@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\bin\Debug\netcoreapp3.1\EmpDay10.8.exe
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\bin\Debug\netcoreapp3.1\EmpDay10.8.deps.json
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\bin\Debug\netcoreapp3.1\EmpDay10.8.runtimeconfig.json
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\bin\Debug\netcoreapp3.1\EmpDay10.8.runtimeconfig.dev.json
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\bin\Debug\netcoreapp3.1\EmpDay10.8.dll
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\bin\Debug\netcoreapp3.1\EmpDay10.8.pdb
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.AssemblyInfo.cs
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.dll
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.pdb
+C:\Users\hp\source\repos\EmpDay10.8\EmpDay10.8\obj\Debug\netcoreapp3.1\EmpDay10.8.genruntimeconfig.cache
