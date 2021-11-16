@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\bin\Debug\netcoreapp3.1\EmpDay10.1.exe
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\bin\Debug\netcoreapp3.1\EmpDay10.1.deps.json
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\bin\Debug\netcoreapp3.1\EmpDay10.1.runtimeconfig.json
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\bin\Debug\netcoreapp3.1\EmpDay10.1.runtimeconfig.dev.json
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\bin\Debug\netcoreapp3.1\EmpDay10.1.dll
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\bin\Debug\netcoreapp3.1\EmpDay10.1.pdb
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.AssemblyInfo.cs
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.dll
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.pdb
+C:\Users\hp\source\repos\EmpDay10.1\EmpDay10.1\obj\Debug\netcoreapp3.1\EmpDay10.1.genruntimeconfig.cache
